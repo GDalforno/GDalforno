@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm a Junior Data Scientist at [Semantix](https://www.semantix.ai/) in Campinas, Brazil;
 - :man_student: I'm also a graduate student in Mathematics at University of São Paulo (USP) currently enrolled in a Master Program in Applied Mathematics at State University of Campinas (UNICAMP);  
-- :surfing_man: My hobbies include, but are not limited to, hitting the gym, hanging out with my friends and watch youtube videos;
+- :surfing_man: My hobbies include, but are not limited to, hitting the gym, hanging out with my friends and watching youtube videos;
 - :thought_balloon: I believe that with the right schedule and resources we are able to learn everything we want.
 
 ### Languages and Tools 
