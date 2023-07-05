@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Gabriel
 
-- 👨‍💻 I'm a Junior Data Scientist at [Semantix](https://www.semantix.ai/) in Campinas, Brazil;
+- 👨‍💻 I'm a Software Engineer at [Semantix](https://www.semantix.ai/) in Campinas, Brazil;
 - :man_student: I'm also a graduate student in Mathematics at University of São Paulo (USP)
 - :surfing_man: My hobbies include, but are not limited to, dancing, listening to music, hanging out with my friends and watching youtube videos;
 - :thought_balloon: I believe that with the right schedule and resources we are able to learn everything we want.
