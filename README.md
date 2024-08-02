@@ -1,8 +1,8 @@
-## Hey 👋, I'm Gabriel
+## Hey 👋, I'm Gabriel Dalforno
 
-- 👨‍💻 I'm a Software Engineer working with Backend Web Development, MLOps and Devops;
+- 👨‍💻 I'm a Software Engineer at Uber working with Backend Web Development;
 - :man_student: I'm also a graduate student in Mathematics at University of São Paulo (USP)
-- :surfing_man: My hobbies include, but are not limited to, listening to music, hanging out with my friends and watching youtube videos;
+- :surfing_man: My hobbies include, but are not limited to, listening to music, hanging out with my friends and working out;
 - :thought_balloon: I believe that with the right schedule and resources we are able to learn everything we want.
 
 ### Technologies
@@ -18,6 +18,9 @@
 ![Axios.js](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![Prisma.js](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### CI/CD
 ![GithubActions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
@@ -62,3 +65,4 @@
 
 #### Others
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
